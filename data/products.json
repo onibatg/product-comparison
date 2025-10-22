@@ -1,0 +1,232 @@
+{
+  "products": [
+    {
+      "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "name": "Sony WH-1000XM5 Wireless Headphones",
+      "image_url": "https://images.example.com/sony-wh1000xm5.jpg",
+      "description": "Industry-leading noise canceling wireless headphones with premium sound quality. Features 30-hour battery life, multipoint connection, and adaptive sound control. Perfect for travel, work, and daily commute.",
+      "price": "399.99",
+      "rating": 4.8,
+      "currency": "USD",
+      "specifications": {
+        "brand": "Sony",
+        "color": "Black",
+        "connectivity": "Bluetooth 5.2",
+        "battery_life": "30 hours",
+        "charging_time": "3.5 hours",
+        "weight": "250g",
+        "noise_cancellation": true,
+        "microphone": "Built-in",
+        "foldable": true,
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "a3c2b1e5-9f8d-4a6b-b3c2-1e5f9a8d7c6b",
+      "name": "Apple MacBook Pro 14-inch M3",
+      "image_url": "https://images.example.com/macbook-pro-14-m3.jpg",
+      "description": "Powerful laptop with M3 chip, Liquid Retina XDR display, and all-day battery life. Perfect for professionals requiring high performance for video editing, software development, and creative work.",
+      "price": "1999.00",
+      "rating": 4.9,
+      "currency": "USD",
+      "specifications": {
+        "brand": "Apple",
+        "processor": "Apple M3",
+        "ram": "16GB",
+        "storage": "512GB SSD",
+        "display": "14.2-inch Liquid Retina XDR",
+        "resolution": "3024x1964",
+        "battery_life": "18 hours",
+        "weight": "1.55kg",
+        "ports": "3x Thunderbolt 4, HDMI, SD card",
+        "color": "Space Gray",
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "b8d7c6e5-4a3b-2c1d-9e8f-7a6b5c4d3e2f",
+      "name": "Samsung Galaxy S24 Ultra",
+      "image_url": "https://images.example.com/samsung-s24-ultra.jpg",
+      "description": "Flagship smartphone with advanced AI features, stunning 6.8-inch display, and versatile quad camera system. Includes S Pen for productivity and creativity. Built with premium titanium frame.",
+      "price": "1299.99",
+      "rating": 4.7,
+      "currency": "USD",
+      "specifications": {
+        "brand": "Samsung",
+        "display": "6.8-inch Dynamic AMOLED 2X",
+        "resolution": "3120x1440",
+        "processor": "Snapdragon 8 Gen 3",
+        "ram": "12GB",
+        "storage": "256GB",
+        "camera": "200MP main, 50MP telephoto, 12MP ultra-wide, 10MP telephoto",
+        "battery": "5000mAh",
+        "os": "Android 14",
+        "5g": true,
+        "color": "Titanium Gray",
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "c9e8d7f6-5b4a-3d2c-1e0f-9a8b7c6d5e4f",
+      "name": "LG C3 65-inch OLED 4K TV",
+      "image_url": "https://images.example.com/lg-c3-oled-65.jpg",
+      "description": "Premium OLED TV with self-lit pixels for perfect blacks and infinite contrast. Features α9 AI Processor Gen6 for enhanced picture and sound. Ideal for movies, gaming, and streaming.",
+      "price": "1799.00",
+      "rating": 4.6,
+      "currency": "USD",
+      "specifications": {
+        "brand": "LG",
+        "screen_size": "65 inches",
+        "resolution": "3840x2160 (4K)",
+        "display_type": "OLED",
+        "refresh_rate": "120Hz",
+        "hdr": "Dolby Vision, HDR10, HLG",
+        "smart_tv": "webOS 23",
+        "hdmi_ports": 4,
+        "gaming_features": "VRR, ALLM, 4K 120fps",
+        "audio": "Dolby Atmos",
+        "dimensions": "144.5 x 82.9 x 4.7 cm",
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "d0f9e8a7-6c5b-4e3d-2a1b-0c9d8e7f6a5b",
+      "name": "Dyson V15 Detect Absolute Cordless Vacuum",
+      "image_url": "https://images.example.com/dyson-v15-detect.jpg",
+      "description": "Advanced cordless vacuum with laser detection technology that reveals microscopic dust. Features intelligent suction adjustment and up to 60 minutes of runtime. Perfect for deep cleaning all floor types.",
+      "price": "749.99",
+      "rating": 4.5,
+      "currency": "USD",
+      "specifications": {
+        "brand": "Dyson",
+        "type": "Cordless Stick Vacuum",
+        "battery_life": "60 minutes",
+        "charging_time": "4.5 hours",
+        "bin_capacity": "0.76L",
+        "weight": "3.1kg",
+        "filtration": "Advanced HEPA filtration",
+        "laser_detection": true,
+        "suction_power": "230 AW",
+        "attachments": "8 tools included",
+        "color": "Nickel/Yellow",
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "e1a0b9c8-7d6e-5f4a-3b2c-1d0e9f8a7b6c",
+      "name": "Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker",
+      "image_url": "https://images.example.com/instant-pot-duo-plus.jpg",
+      "description": "Versatile multi-cooker that replaces 9 kitchen appliances. Pressure cook, slow cook, rice cooker, steamer, sauté pan, yogurt maker, and warmer. Perfect for busy households and meal prep.",
+      "price": "119.95",
+      "rating": 4.7,
+      "currency": "USD",
+      "specifications": {
+        "brand": "Instant Pot",
+        "capacity": "6 quarts",
+        "functions": "9 in 1",
+        "programs": "13 smart programs",
+        "pressure_cooking": true,
+        "slow_cooking": true,
+        "material": "Stainless steel",
+        "power": "1000W",
+        "safety_features": "10+ built-in",
+        "dishwasher_safe": "Inner pot and accessories",
+        "color": "Stainless Steel",
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "f2b1c0d9-8e7f-6a5b-4c3d-2e1f0a9b8c7d",
+      "name": "Canon EOS R6 Mark II Mirrorless Camera",
+      "image_url": "https://images.example.com/canon-eos-r6-markii.jpg",
+      "description": "Professional full-frame mirrorless camera with 24.2MP sensor and up to 40fps continuous shooting. Features advanced autofocus, 6K video, and in-body image stabilization. Ideal for photography and videography.",
+      "price": "2499.00",
+      "rating": 4.8,
+      "currency": "USD",
+      "specifications": {
+        "brand": "Canon",
+        "sensor": "24.2MP Full-Frame CMOS",
+        "autofocus_points": "1053 AF points",
+        "continuous_shooting": "40 fps electronic, 12 fps mechanical",
+        "video": "6K RAW, 4K 60fps",
+        "image_stabilization": "8-stop in-body IS",
+        "viewfinder": "3.69M-dot OLED EVF",
+        "lcd_screen": "3.2-inch vari-angle touchscreen",
+        "connectivity": "Wi-Fi, Bluetooth, USB-C",
+        "battery_life": "760 shots",
+        "weather_sealing": true,
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "a7b6c5d4-e3f2-a1b0-c9d8-e7f6a5b4c3d2",
+      "name": "Peloton Bike+ Indoor Exercise Bike",
+      "image_url": "https://images.example.com/peloton-bike-plus.jpg",
+      "description": "Premium indoor cycling bike with 24-inch rotating HD touchscreen and Auto-Follow resistance. Access thousands of live and on-demand classes. Includes immersive audio system and performance tracking.",
+      "price": "2495.00",
+      "rating": 4.6,
+      "currency": "USD",
+      "specifications": {
+        "brand": "Peloton",
+        "display": "24-inch rotating HD touchscreen",
+        "resistance": "Auto-Follow digital resistance",
+        "audio": "Enhanced speakers with 2x tweeters",
+        "camera": "8MP front-facing",
+        "dimensions": "59 x 23 x 60 inches",
+        "weight": "140 lbs",
+        "max_user_weight": "297 lbs",
+        "connectivity": "Wi-Fi, Bluetooth",
+        "subscription_required": true,
+        "accessories_included": "Weights, bottle holders",
+        "warranty": "12 months"
+      }
+    },
+    {
+      "id": "b8c7d6e5-f4a3-b2c1-d0e9-f8a7b6c5d4e3",
+      "name": "Bose SoundLink Revolve+ II Bluetooth Speaker",
+      "image_url": "https://images.example.com/bose-soundlink-revolve-plus2.jpg",
+      "description": "Portable Bluetooth speaker with 360-degree sound and deep, powerful bass. Water and dust resistant with 17-hour battery life. Perfect for outdoor adventures and home listening.",
+      "price": "329.00",
+      "rating": 4.7,
+      "currency": "USD",
+      "specifications": {
+        "brand": "Bose",
+        "audio": "360-degree sound",
+        "battery_life": "17 hours",
+        "charging_time": "4 hours",
+        "charging_port": "USB-C",
+        "bluetooth_range": "30 feet",
+        "water_resistance": "IP55 (water and dust resistant)",
+        "weight": "2.04 lbs",
+        "dimensions": "7.25 x 4.13 x 4.13 inches",
+        "speakerphone": true,
+        "voice_assistant": "Alexa and Google Assistant",
+        "color": "Triple Black",
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "c9d8e7f6-a5b4-c3d2-e1f0-a9b8c7d6e5f4",
+      "name": "Ninja Creami Ice Cream Maker",
+      "image_url": "https://images.example.com/ninja-creami.jpg",
+      "description": "Transform frozen solid bases into ice cream, gelato, smoothie bowls, and more with the touch of a button. Create completely customizable frozen treats with endless flavor possibilities. Healthy and delicious.",
+      "price": "199.99",
+      "rating": 4.6,
+      "currency": "USD",
+      "specifications": {
+        "brand": "Ninja",
+        "functions": "7 programs",
+        "programs": "Ice Cream, Gelato, Milkshake, Smoothie Bowl, Sorbet, Light Ice Cream, Mix-in",
+        "capacity": "16 oz per container",
+        "containers_included": 2,
+        "power": "800W",
+        "blade_type": "Dual-sided",
+        "dishwasher_safe": true,
+        "bpa_free": true,
+        "dimensions": "16.5 x 12.5 x 6.5 inches",
+        "color": "Silver/Black",
+        "warranty": "1 year"
+      }
+    }
+  ]
+}
