@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "name": "Sony WH-1000XM5 Wireless Headphones",
+      "image_url": "https://images.example.com/sony-wh1000xm5.jpg",
+      "description": "Industry-leading noise canceling wireless headphones",
+      "price": "399.99",
+      "rating": 4.8,
+      "currency": "USD",
+      "specifications": {
+        "brand": "Sony",
+        "color": "Black",
+        "connectivity": "Bluetooth 5.2"
+      }
+    },
+    {
+      "id": "a3c2b1e5-9f8d-4a6b-b3c2-1e5f9a8d7c6b",
+      "name": "Apple MacBook Pro 14-inch M3",
+      "image_url": "https://images.example.com/macbook-pro-14-m3.jpg",
+      "description": "Powerful laptop with M3 chip",
+      "price": "1999.00",
+      "rating": 4.9,
+      "currency": "USD",
+      "specifications": {
+        "brand": "Apple",
+        "processor": "Apple M3",
+        "ram": "16GB"
+      }
+    },
+    {
+      "id": "b8d7c6e5-4a3b-2c1d-9e8f-7a6b5c4d3e2f",
+      "name": "Samsung Galaxy S24 Ultra",
+      "image_url": "https://images.example.com/samsung-s24-ultra.jpg",
+      "description": "Flagship smartphone with advanced AI features",
+      "price": "1299.99",
+      "rating": 4.7,
+      "currency": "USD",
+      "specifications": {
+        "brand": "Samsung",
+        "display": "6.8-inch Dynamic AMOLED 2X",
+        "ram": "12GB"
+      }
+    },
+    {
+      "id": "c9e8d7f6-5b4a-3d2c-1e0f-9a8b7c6d5e4f",
+      "name": "LG C3 65-inch OLED 4K TV",
+      "image_url": "https://images.example.com/lg-c3-oled-65.jpg",
+      "description": "Premium OLED TV with self-lit pixels",
+      "price": "1799.00",
+      "rating": 4.6,
+      "currency": "USD",
+      "specifications": {
+        "brand": "LG",
+        "screen_size": "65 inches",
+        "resolution": "3840x2160"
+      }
+    },
+    {
+      "id": "d0f9e8a7-6c5b-4e3d-2a1b-0c9d8e7f6a5b",
+      "name": "Dyson V15 Detect Absolute Cordless Vacuum",
+      "image_url": "https://images.example.com/dyson-v15-detect.jpg",
+      "description": "Advanced cordless vacuum with laser detection",
+      "price": "749.99",
+      "rating": 4.5,
+      "currency": "USD",
+      "specifications": {
+        "brand": "Dyson",
+        "type": "Cordless Stick Vacuum",
+        "battery_life": "60 minutes"
+      }
+    }
+  ]
+}
