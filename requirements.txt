@@ -6,8 +6,10 @@ uvicorn[standard]==0.27.0
 pydantic==2.5.3
 pydantic-settings==2.1.0
 
-# Optional Testing Dependencies (uncomment if needed)
-# pytest==7.4.4
-# pytest-asyncio==0.23.3
-# httpx==0.26.0
-# pytest-cov==4.1.0
+# Testing Dependencies
+pytest==7.4.4
+pytest-asyncio==0.23.3
+httpx==0.26.0
+pytest-cov==4.1.0
+pytest-mock==3.12.0
+faker==22.0.0
